@@ -11,7 +11,7 @@ body {
   }
   
   .playlistContainer {
-    margin-bottom: 100px;
+    margin-bottom: 80px;
   }
   
   .trackItem {
@@ -45,9 +45,9 @@ body {
   }
   
   .controls {
-    font-size: 30px;
+    font-size: 20px;
     color: #fae52b;
-    margin: 20px 40px;
+    margin: 15px 40px;
     cursor: pointer;
   }
   
