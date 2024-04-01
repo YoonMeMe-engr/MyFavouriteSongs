@@ -6,17 +6,17 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 100vh;
+    height: 80vh;
     justify-content: center;
   }
   
   .playlistContainer {
-    margin-bottom: 80px;
+    margin-bottom: 50px;
   }
   
   .trackItem {
     color: #e40606;
-    font-size: 20px;
+    font-size: 15px;
     border-bottom: 1px solid #f8ce10;
     padding: 10px 0px;
     cursor: pointer;
@@ -45,9 +45,9 @@ body {
   }
   
   .controls {
-    font-size: 20px;
+    font-size: 10px;
     color: #fae52b;
-    margin: 15px 40px;
+    margin: 10px 30px;
     cursor: pointer;
   }
   
